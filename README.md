@@ -25,7 +25,7 @@ Used to access classmates' goal statements and the Monday's of each week of the 
         
         a. After entering 2, youll be prompted to enter the week of the semester you want to see the date of the monday for (working example: 8)
         
-        b. After entering the week number, the date of the monday for that week will be printed in the console
+        b. After entering the week number, the date of the monday for that week will be printed in the console before returning to the list of options
      
      C. 3 will quit the application
 
