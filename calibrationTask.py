@@ -69,12 +69,12 @@ while(True):
    print("Option 3 - exit application")
    
    #gets the user input for choice of function
-   option = int(input("enter your choice >> "))
+   option = input("enter your choice >> ")
    #to exit the application/stop the code
-   if (option == 3):
+   if (option == '3'):
        exit_application()
    #to print dates of the monday of each week
-   elif (option == 2):
+   elif (option == '2'):
        tempVar=input("Enter the week of the semester >> ")
        if (tempVar in week_dates):
            print("The date of the Monday in week", tempVar, "is", week_dates[tempVar])
@@ -83,16 +83,17 @@ while(True):
            print("Error: The week does not exist in this semester")
            print("---------------------------------------------------")
    #to print goal statments of students
-   elif (option == 1):
+   elif (option == '1'):
        tempVar=input("Enter the name of the person's goal statement you want to access >> ")
        if (tempVar in class_goals):
            print("The goal statement of the student (", tempVar, ") is:\n\t", class_goals[tempVar])
            print("---------------------------------------------------")
        else:
-           print("Error: The person not exist in the class")
+           print("Error: The person does not exist in the class or was not entered correctly")
            print("---------------------------------------------------")
-           
-       
+   else:
+       print("Your input is invalid. Please enter either 1, 2, or 3 to choose an option")
+       print("---------------------------------------------------")
 
    
    
