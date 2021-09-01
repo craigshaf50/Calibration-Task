@@ -3,15 +3,15 @@ Used to access classmates' goal statements and the Monday's of each week of the 
 
 
 # How to run Calibration Task
- 1. Download a python IDE (Ex - Spyder, PyCharm, etc.)
+ 1. Download a python IDE (Ex - Spyder, PyCharm, etc.) or if you have one skip this step and proceed to downloading the software
      
      A. I used Anaconda Individual Edition which comes with Spyder which can be downloaded here (https://www.anaconda.com/products/individual)
  
- 2. Download calibrationTask.py in the Calibration Task zipfile
+ 2. Download calibrationTask.py via the Calibration Task zipfile
  
- 3. Open calibrationTask.py and run
+ 3. open your IDE or text editor and open calibrationTask.py in it
  
- 4. You will be prompted with a list of options to access the class goals
+ 4. Run the program. You will be prompted with a list of options to access the class goals
  
  5. Enter 1, 2, or 3 when prompted with "enter your choice >> "
      
