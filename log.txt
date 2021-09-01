@@ -1,0 +1,12 @@
+﻿8/25/21 - 71 minutes
+2:55-3:49pm: Brainstorm how to accomplish tasks and quick research on HTML CSS
+5:33-5:50pm: Post interview: wrote down plan and thoughts for completing the tasks
+8/29/21 - 83 minutes
+9:00-9:20pm: initial dictionary with names and goals done
+9:20-9:50pm: dictionary with week numbers and monday’s dates done
+9:35-10:23pm: basic framework of code is functional (Access goals from student name)
+8/30/21 - 63 minutes
+4:00-5:03pm: finish code to access date from week number. Format longer goals (the ones I have received as of 8/30).
+8/31/21 - 168 minutes
+7:26-7:51pm: update all new goal statements that have been received (need new goal statement files from Nick, Grant, David, Gideon, Jacob H, and Jacob T.)
+8:00-10:23pm: learned how to set up github repository. Repository + readme finished.
