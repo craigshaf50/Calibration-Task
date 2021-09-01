@@ -1,6 +1,7 @@
 # Calibration Task
 Used to access classmates' goal statements and the Monday's of each week of the semester
 
+Video tutorial: https://youtu.be/F7vomNgYLJY
 
 # How to run Calibration Task
  1. Download a python IDE (Ex - Spyder, PyCharm, etc.) or if you have one skip this step and proceed to downloading the software
