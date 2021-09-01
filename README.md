@@ -5,7 +5,7 @@ Used to access classmates' goal statements and the Monday's of each week of the 
 # How to run Calibration Task
  1. Download a python IDE (Ex - Spyder, PyCharm, etc.) or if you have one skip this step and proceed to downloading the software
      
-     A. I used Anaconda Individual Edition which comes with Spyder which can be downloaded here (https://www.anaconda.com/products/individual)
+     A. I used Anaconda Individual Edition which comes with Spyder and can be downloaded here (https://www.anaconda.com/products/individual)
  
  2. Download calibrationTask.py via the Calibration Task zipfile
  
